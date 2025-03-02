@@ -73,5 +73,4 @@ Explanation:
 •	3. Models
 •	The models define the structure of the data and relationships in the database.
 Unfortunately, I was unable to retrieve the 
-files in the backend/models directory. You can refer to this directory 
-to understand the data models used in your application.
+files in the backend/models directory. 
